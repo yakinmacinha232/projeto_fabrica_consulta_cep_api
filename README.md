@@ -113,4 +113,3 @@ Como exercício, tente:
 ---
 
 
-Deseja que eu inclua o nome completo **Alexsandra Campos — Instrutora de Formação Profissional em Python no SENAI Ary Torres** no final do README (assim como nos anteriores)? Isso deixa o documento padronizado para seus alunos.
